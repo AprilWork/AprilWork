@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AprilWork
 - 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning Hibernate.
-- 💞️ I’m do not looking to collaborate on project.
+- 🌱 I’m currently learning Hibernate and Persistance.
+- 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me: iradeveloper1@gmail.com
 
 <!---
