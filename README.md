@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AprilWork
 - 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning Selenium.
+- 🌱 I’m currently learning Selenium WebDriver.
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me: iradeveloper1@gmail.com
 
