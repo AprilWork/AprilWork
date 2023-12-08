@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AprilWork
 - 💞️ I’m interested in Java programming.
 - 👀 I’m looking to collaborate on a project.
-- 🌱 I’m currently learning Spring Rest.
+- 🌱 I’m currently learning Mockito.
 - 📫 How to reach me: iradeveloper1@gmail.com
 
 <!---
